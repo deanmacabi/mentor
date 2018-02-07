@@ -39,7 +39,7 @@ body {
   width: ;
 }
 
-.white::placeholder && .white{
+.white::placeholder, .white{
   color: white!important;
 }
 
