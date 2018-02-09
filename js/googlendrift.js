@@ -1,21 +1,8 @@
 ;(function () {
 	
 	'use strict';
-
-// <!-- Global site tag (gtag.js) - Google Analytics -->
-		
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113803182-1"></script>
-	<script>
-	  window.dataLayer = window.dataLayer || [];
-	  function gtag(){dataLayer.push(arguments);}
-	  gtag('js', new Date());
-
-	  gtag('config', 'UA-113803182-1');
-	</script>
-// <!-- End Google Analytics Code -->
   
 // <!-- Start of Async Chat Code -->
-		<script>
 		!function() {
 		  var t;
 		  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
@@ -36,11 +23,9 @@
 		}();
 		drift.SNIPPET_VERSION = '0.3.1';
 		drift.load('gbv2tx2edfr7');
-		</script>
 //		<!-- End of Async Chat Code -->  
   
  //   <!-- Start of Chat Class Code -->
-      <script>
         (function() {
           /* Add this class to any elements you want to use to open Drift.
            *
@@ -85,6 +70,5 @@
             });
           });
         })();
-    </script>
 	
 }());
