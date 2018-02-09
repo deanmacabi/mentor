@@ -39,6 +39,10 @@ body {
   width: ;
 }
 
+.about-inner {
+  line-height: 2;
+}
+
 .white::placeholder, .white{
   color: white!important;
 }
