@@ -2,14 +2,6 @@
 	
 	'use strict';
   
-		// <!-- Global site tag (gtag.js) - Google Analytics -->
-		async src="https://www.googletagmanager.com/gtag/js?id=UA-113803182-1"
-		
-		window.dataLayer = window.dataLayer || [];
-		function gtag(){dataLayer.push(arguments);}
-		gtag('js', new Date());
-		gtag('config', 'UA-113803182-1');
-		
 		// <!-- Start of Async Chat Code -->
 		!function() {
 		  var t;
