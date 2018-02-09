@@ -56,7 +56,7 @@
 	<![endif]-->
         
 	<!-- Start of Async Chat Code -->
-		<script>
+	<script>
 		!function() {
 		  var t;
 		  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
@@ -79,7 +79,55 @@
 		drift.load('gbv2tx2edfr7');
 		</script>
 		<!-- End of Async Chat Code -->
-
+		
+		<!-- Start of Chat Class Code -->
+		<script>
+		  (function() {
+		    /* Add this class to any elements you want to use to open Drift.
+		     *
+		     * Examples:
+		     * - <a class="drift-open-chat">Questions? We're here to help!</a>
+		     * - <button class="drift-open-chat">Chat now!</button>
+		     *
+		     * You can have any additional classes on those elements that you
+		     * would ilke.
+		     */
+		    var DRIFT_CHAT_SELECTOR = '.drift-open-chat'
+		    /* http://youmightnotneedjquery.com/#ready */
+		    function ready(fn) {
+		      if (document.readyState != 'loading') {
+			fn();
+		      } else if (document.addEventListener) {
+			document.addEventListener('DOMContentLoaded', fn);
+		      } else {
+			document.attachEvent('onreadystatechange', function() {
+			  if (document.readyState != 'loading')
+			    fn();
+			});
+		      }
+		    }
+		    /* http://youmightnotneedjquery.com/#each */
+		    function forEachElement(selector, fn) {
+		      var elements = document.querySelectorAll(selector);
+		      for (var i = 0; i < elements.length; i++)
+			fn(elements[i], i);
+		    }
+		    function openSidebar(driftApi, event) {
+		      event.preventDefault();
+		      driftApi.sidebar.open();
+		      return false;
+		    }
+		    ready(function() {
+		      drift.on('ready', function(api) {
+			var handleClick = openSidebar.bind(this, api)
+			forEachElement(DRIFT_CHAT_SELECTOR, function(el) {
+			  el.addEventListener('click', handleClick);
+			});
+		      });
+		    });
+		  })();
+	</script>
+		
 	</head>
 	
 	<body>
@@ -123,7 +171,7 @@
 									<br />I have now no problems at all speaking with any guy or girl, regardless of who they are or their ideas while I feel constantly happy regardless of everything around me.
 									<br />Whether you would like to change careers, start your first business, wanting to avoid the negative feeling that arises when you get out of track or just want to improve your life in general while gaining influence, charisma and impact, I know exactly how you are feeling right now. 
 									<br />I can help you get the clarity while helping you stay on track without falling to undeseriable feeling such as negativity. I'll help you break through any diffculty that you may encounter. 
-									<br />Just message me through the <font color="blue"></b>blue chat icon</b></font> on the right or through the <a href="contact.html#contact-form"><b>Contact Form</b></a>, and I’ll get back to right away (usually within 24 hours). Thanks for your inquiry.
+									<br />Just message me through the <a class="drift-open-chat"><font color="blue"></b>blue chat icon</b></font></a> on the right or through the <a href="contact.html#contact-form"><b>Contact Form</b></a>, and I’ll get back to right away (usually within 24 hours). Thanks for your inquiry.
 								</p>
 								<blockquote>
 									<p><b>For limited time, FREE discovery call!</b></p>
