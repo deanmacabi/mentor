@@ -2,7 +2,15 @@
 	
 	'use strict';
   
-// <!-- Start of Async Chat Code -->
+		// <!-- Global site tag (gtag.js) - Google Analytics -->
+		async src="https://www.googletagmanager.com/gtag/js?id=UA-113803182-1"
+		
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+		gtag('config', 'UA-113803182-1');
+		
+		// <!-- Start of Async Chat Code -->
 		!function() {
 		  var t;
 		  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
@@ -23,9 +31,9 @@
 		}();
 		drift.SNIPPET_VERSION = '0.3.1';
 		drift.load('gbv2tx2edfr7');
-//		<!-- End of Async Chat Code -->  
+		// <!-- End of Async Chat Code -->  
   
- //   <!-- Start of Chat Class Code -->
+	 // <!-- Start of Chat Class Code -->
         (function() {
           /* Add this class to any elements you want to use to open Drift.
            *
