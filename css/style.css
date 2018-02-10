@@ -48,13 +48,13 @@ body {
 }
 
 a {
-  color: #1FB57B;
+  color: #0176FF;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #1FB57B;
+  color: #0176FF;
   outline: none;
 }
 
@@ -74,17 +74,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #0176FF;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #0176FF;
 }
 
 ::selection {
   color: #fff;
-  background: #1FB57B;
+  background: #0176FF;
 }
 
 .btn {
@@ -113,9 +113,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #1FB57B;
+  background: #0176FF;
   color: #fff;
-  border: 2px solid #1FB57B;
+  border: 2px solid #0176FF;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #23cb8a !important;
@@ -123,11 +123,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #1FB57B;
-  border: 2px solid #1FB57B;
+  color: #0176FF;
+  border: 2px solid #0176FF;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #1FB57B;
+  background: #0176FF;
   color: #fff;
 }
 
@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #1FB57B;
+  border-color: #0176FF;
 }
 
 .fh5co-social {
@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 4px;
 }
 .fh5co-social li a:hover {
-  color: #1FB57B;
+  color: #0176FF;
 }
 .fh5co-social li a:hover, .fh5co-social li a:active, .fh5co-social li a:focus {
   outline: none;
@@ -364,13 +364,13 @@ h1, h2, h3, h4, h5, h6, figure {
   font-family: "Roboto", Arial, sans-serif;
 }
 #fh5co-header h1 i {
-  color: #1FB57B;
+  color: #0176FF;
 }
 #fh5co-header h1 a {
   color: black;
 }
 #fh5co-header h1 a > span {
-  color: #1FB57B;
+  color: #0176FF;
 }
 #fh5co-header h1 a:hover, #fh5co-header h1 a:active, #fh5co-header h1 a:focus {
   text-decoration: none;
@@ -421,7 +421,7 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   text-decoration: none;
   color: white;
-  background: #1FB57B;
+  background: #0176FF;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   -ms-border-radius: 40px;
@@ -435,8 +435,8 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 16px !important;
   padding-top: 7px !important;
   padding-bottom: 7px !important;
-  border: 2px solid #1fb57b;
-  color: #1FB57B;
+  border: 2px solid #0176FF;
+  color: #0176FF;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
@@ -444,7 +444,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header nav ul li.cta a:hover {
   color: #fff;
-  background: #1FB57B;
+  background: #0176FF;
 }
 #fh5co-header nav ul li.cta a:hover:after {
   display: none;
@@ -665,7 +665,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .work-inner .desc h3 a:hover {
   text-decoration: none;
-  color: #1FB57B;
+  color: #0176FF;
 }
 .work-inner .desc span {
   color: rgba(0, 0, 0, 0.5);
@@ -683,18 +683,18 @@ h1, h2, h3, h4, h5, h6, figure {
 
 #fh5co-services-section {
   position: relative;
-  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1fb57b+0,258dc8+100 */
-  background: #1fb57b;
+  /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#0176FF+0,258dc8+100 */
+  background: #0176FF;
   /* Old browsers */
   /* IE9 SVG, needs conditional override of 'filter' to 'none' */
   background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMTAwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMWZiNTdiIiBzdG9wLW9wYWNpdHk9IjEiLz4KICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzI1OGRjOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgPC9saW5lYXJHcmFkaWVudD4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2dyYWQtdWNnZy1nZW5lcmF0ZWQpIiAvPgo8L3N2Zz4=);
-  background: -moz-linear-gradient(45deg, #1fb57b 0%, #258dc8 100%);
+  background: -moz-linear-gradient(45deg, #0176FF 0%, #258dc8 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(45deg, #1fb57b 0%, #258dc8 100%);
+  background: -webkit-linear-gradient(45deg, #0176FF 0%, #258dc8 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: linear-gradient(45deg, #1fb57b 0%, #258dc8 100%);
+  background: linear-gradient(45deg, #0176FF 0%, #258dc8 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1fb57b', endColorstr='#258dc8',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0176FF', endColorstr='#258dc8',GradientType=1 );
   /* IE6-8 fallback on horizontal gradient */
 }
 @media screen and (max-width: 999px) {
@@ -752,8 +752,8 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-main-services-section .services-inner span i {
   font-size: 40px;
-  color: #1fb57b;
-  border: 2px solid #1fb57b;
+  color: #0176FF;
+  border: 2px solid #0176FF;
   padding: 23px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
@@ -904,7 +904,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.5);
 }
 .sidebar ul li a:hover {
-  color: #1FB57B;
+  color: #0176FF;
   text-decoration: none;
 }
 
@@ -938,7 +938,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .contact-info li a {
-  color: #1FB57B;
+  color: #0176FF;
 }
 
 #map {
@@ -1093,10 +1093,10 @@ h1, h2, h3, h4, h5, h6, figure {
   text-decoration: none !important;
 }
 #fh5co-offcanvas ul li a:hover {
-  color: #1FB57B;
+  color: #0176FF;
 }
 #fh5co-offcanvas ul li.active a {
-  color: #1FB57B;
+  color: #0176FF;
 }
 #fh5co-offcanvas ul li.cta {
   margin-left: 0;
@@ -1236,3 +1236,6 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+
