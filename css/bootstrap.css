@@ -6324,7 +6324,7 @@ button.close {
   }
 }
 
-@media (min-width: 768px) {
+@media all (min-width: 768px) {
   .d-md-none {
     display: none !important;
   }
