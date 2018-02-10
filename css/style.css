@@ -881,7 +881,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 2em;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
 }
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 786px) {
   .sidebar {
     padding-left: 0 !important;
     border-left: none !important;
