@@ -1224,7 +1224,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: none;
   cursor: pointer;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
   .fh5co-nav-toggle {
     display: block;
     top: 40px;
