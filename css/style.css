@@ -1072,7 +1072,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: black;
   padding: 30px;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 640px) {
   #fh5co-offcanvas {
     display: block;
   }
