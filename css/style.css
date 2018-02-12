@@ -45,12 +45,14 @@ body {
 }
 
 .blogp {
-    background-color: none;
     text-decoration: none; 
     color: #7f7f7f; 
 }
 
-.blogp:hover{text-decoration:none}
+.blogp:hover{
+    text-decoration:none
+    color: #7f7f7f; 
+}
 
 .about-inner {
   line-height: 2;
