@@ -30,9 +30,14 @@ body {
   margin-top: 20px!important;
 }
 
+.profileblogpic {
+  width: 50px;
+  height: 50px;
+}
+
 .mainblogpic {
-  height: 578px;
-  width: 173px;
+   width: 578px;
+  height: 173px;
 }
 
 .paddingposts {
