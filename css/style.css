@@ -44,6 +44,14 @@ body {
   padding: 40px;
 }
 
+.innerpost {
+    background-color: none;
+    text-decoration: none; 
+    color: #7f7f7f; 
+}
+
+.innerpost:hover{text-decoration:none}
+
 .about-inner {
   line-height: 2;
 }
