@@ -22,10 +22,6 @@ body {
   position: relative;
 }
 
-.col-lg-8 {
-  margin: 0 25px 75px 0;
-}
-
 .marg-top-neg-40 {
   margin-top: -40px!important;   
 }
