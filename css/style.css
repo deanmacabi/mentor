@@ -31,8 +31,12 @@ body {
 }
 
 .mainblogpic {
-  height: ;
-  width: ;
+  height: 578px;
+  width: 173px;
+}
+
+.paddingposts {
+  padding: 40px;
 }
 
 .about-inner {
