@@ -46,12 +46,12 @@ body {
 
 .blogp {
     text-decoration: none; 
-    color: #7f7f7f; 
+    color: #black; 
 }
 
 .blogp:hover{
     text-decoration:none
-    color: #7f7f7f; 
+    color: #black; 
 }
 
 .about-inner {
