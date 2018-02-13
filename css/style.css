@@ -36,7 +36,7 @@ body {
 }
 
 .mainblogpic {
-   width: 578px;
+  width: 578px;
   height: 173px;
 }
 
@@ -45,13 +45,18 @@ body {
 }
 
 .blogp {
-    text-decoration: none; 
-    color: #000; 
+  text-decoration: none; 
+  color: #000; 
 }
 
 .blogp:hover{
-    text-decoration: none;
-    color: #000; 
+   text-decoration: none;
+   color: #000; 
+}
+
+.response {
+   color: #fff;
+   text-align: center;
 }
 
 .about-inner {
