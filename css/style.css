@@ -22,6 +22,10 @@ body {
   position: relative;
 }
 
+p {
+  color: #fff;
+}
+
 @font-face {
   font-family: 'mediumb';
   src: url("../fonts/medium/KievitOT-Bold.otf");
@@ -106,7 +110,7 @@ a:hover, a:active, a:focus {
 
 p {
   margin-bottom: 30px;
-  font-size: 18px;
+  font-size: 21px;
   font-weight: 400;
 }
 
