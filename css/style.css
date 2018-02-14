@@ -36,6 +36,14 @@ body {
   font-style: normal;
 }
 
+.postfont {
+    font-family: 'medium';
+}
+
+.titlefont {
+    font-family: 'mediumb';
+}
+
 .marg-top-neg-40 {
   margin-top: -40px!important;   
 }
