@@ -22,6 +22,20 @@ body {
   position: relative;
 }
 
+@font-face {
+  font-family: 'mediumb';
+  src: url("../fonts/medium/KievitOT-Bold.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'medium';
+  src: url("../fonts/medium/KievitOT-Medium.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
 .marg-top-neg-40 {
   margin-top: -40px!important;   
 }
