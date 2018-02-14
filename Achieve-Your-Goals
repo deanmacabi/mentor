@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Blog - Goals Forever</title>
+        
+    <!-- Facebook and Twitter integration -->
+    <link rel="canonical" href="https://GoalsForEver.com/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Blog - GoalsForEver" />
+    <meta property="og:url" content="https://GoalsForEver.com/" />
+    <meta property="og:site_name" content="Goals ForEver" />
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Blog - GoalsForEver " />
+		
+	<link rel="icon" href="/badge.png" type="image/x-icon">
+		
+	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
+	<link rel="shortcut icon" href="favicon.ico">
+
+	<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,700,900' rel='stylesheet' type='text/css'>
+
+	<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,700" rel="stylesheet">
+	
+	<!-- Animate.css -->
+	<link rel="stylesheet" href="css/animate.css">
+	<!-- Icomoon Icon Fonts-->
+	<link rel="stylesheet" href="css/icomoon.css">
+	<!-- Simple Line Icons -->
+	<link rel="stylesheet" href="css/simple-line-icons.css">
+	<!-- Bootstrap  -->
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Theme style  -->
+	<link rel="stylesheet" href="css/style.css">
+
+	<!-- Modernizr JS -->
+	<script src="js/modernizr-2.6.2.min.js"></script>
+	<!-- FOR IE9 below -->
+	<!--[if lt IE 9]>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+        
+	<!-- Start of Async Chat Code -->
+		<script>
+		!function() {
+		  var t;
+		  if (t = window.driftt = window.drift = window.driftt || [], !t.init) return t.invoked ? void (window.console && console.error && console.error("Drift snippet included twice.")) : (t.invoked = !0, 
+		  t.methods = [ "identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on" ], 
+		  t.factory = function(e) {
+		    return function() {
+		      var n;
+		      return n = Array.prototype.slice.call(arguments), n.unshift(e), t.push(n), t;
+		    };
+		  }, t.methods.forEach(function(e) {
+		    t[e] = t.factory(e);
+		  }), t.load = function(t) {
+		    var e, n, o, i;
+		    e = 3e5, i = Math.ceil(new Date() / e) * e, o = document.createElement("script"), 
+		    o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + i + "/" + t + ".js", 
+		    n = document.getElementsByTagName("script")[0], n.parentNode.insertBefore(o, n);
+		  });
+		}();
+		drift.SNIPPET_VERSION = '0.3.1';
+		drift.load('gbv2tx2edfr7');
+		</script>
+		<!-- End of Async Chat Code -->
+
+	</head>
+	<body>
+	
+	
+	<div id="fh5co-page">
+	<header id="fh5co-header" role="banner">
+		<div class="container">
+			<div class="header-inner">
+				<h1><i class="sl-icon-badge"></i><a href="./"> Goals Forever</a></h1>
+				<nav role="navigation">
+					<ul>
+						<li><a href="./">Home</a></li>
+						<li><a class="active" href="blog">Blog</a></li>
+						<li><a href="about">About</a></li>
+						<li><a href="contact">Private Consultations</a></li>
+					<!-- <li><a href="folio.html">Folio</a></li> -->
+					<!-- <li><a href="services.html">Services</a></li> -->
+					</ul>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+	
+	<!-- +++++ Post +++++ -->
+	<div id="white">
+	    <div class="container">
+			<div class="row">
+				<div class="col-lg-8 col-lg-offset-2">
+					<div class="text-center" style="padding-top: 40px;">
+						<p><img src="images/dean.png" width="50px" height="50px"> <ba>Dean Maccabi</ba></p>
+						<p><bd>January 3, 2017</bd></p>
+						<h4>An Image Post</h4>
+						<p><img class="img-responsive" src="assets/img/blog01.jpg" alt=""></p>
+					</div>
+					<p>Our brain has the 'blemish' of always following strategies, that is, the human mind does not work randomly and scattered as one thinks. When we behave we are following our mental programming, and one of the bases of this programming is what in NLP (Neuro-Linguistic Programming) called Mental Strategies. But what are EM? Nothing more than a step-by-step first thing after that.</p>
+					<p>-If we are always following strategies, then does it mean that there are mental strategies to eat well?
+Oops ... you can bet your last straw that yes and I'll teach you now what are the strategies to eat well, lose weight and even increase your energy.
+
+Eating well begins with eating with your eyes, what does that mean? When you look at a food, what are you looking for? The hottest, the sweetest, the salty or the healthiest? Can I tell you that none of these looks are extraordinary ...? When looking at a food you need to get what is most needed for your body, you need to see the food as your body would see, your eyes are just an extension of what your body wants you to eat.
+
+Perception of the future is when you stop only from the momentary (and often destructive to health) pleasure to think about the future effects of what to eat, this is one of the greatest discoveries I have made in developing a diet of excellence.
+
+Well-directed questions, we call this good internal dialogue. You need to understand that your greatest guide and food menu already lives inside you, lie, you live inside it, your body! I speak this and I will repeat until the World understands, you do not eat to SEER, you feed to nourish YOUR BODY, that is body wisdon.
+
+Over the years working with changing habits I have been able to refine and realize the best strategies for eating well, they are very functional.
+
+With this step by step you could revolutionize your eating and sharing this article could change the lives of other people, so how about? See you later.
+
+Author's Bio: 
+With more than 5 years of experience, and excellent work in the field I have helped people to change their eating habits every day.
+Using Coach and NLP Strategies.</p>
+					<p>It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+					<br>
+					<p><bt>TAGS: <a href="#">Wordpress</a> - <a href="#">Web Design</a></bt></p>
+					<hr>
+					<p><a href="blog.html"># Back</a></p>
+				</div>
+
+			</div><!-- /row -->
+	    </div> <!-- /container -->
+	</div><!-- /white -->
+	
+	
+	
+	
+	<!-- +++++ OLD Footer Section +++++ 
+	
+	<div id="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<h4>My Bunker</h4>
+					<p>
+						Some Address 987,<br/>
+						+34 9054 5455, <br/>
+						Madrid, Spain.
+					</p>
+				</div>
+				
+				<div class="col-lg-4">
+					<h4>My Links</h4>
+					<p>
+						<a href="#">Dribbble</a><br/>
+						<a href="#">Twitter</a><br/>
+						<a href="#">Facebook</a>
+					</p>
+				</div>
+				
+				<div class="col-lg-4">
+					<h4>About Stanley</h4>
+					<p>This cute theme was created to showcase your work in a simple way. Use it wisely.</p>
+				</div>
+			
+			</div>
+		
+		</div>
+	</div>
+	END OLD FOOTER -->
+
+	<!-- NEW FOOTER -->
+	<footer id="fh5co-footer" role="contentinfo">
+	
+		<div class="container">
+			<div class="col-md-3 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0 col-md-offset-1">
+				<h3>About Us</h3>
+				<p>I help people achieve their goals and dreams. 
+					I know exactly how you are feeling right now.
+					I can help you get the clarity and help you stay on track without having undeseriable feelings. 
+			</div>
+			<!--
+			<div class="col-md-6 col-md-push-1 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
+				<h3>Our Services</h3>
+				<ul class="float">
+					<li><a href="#">Web Design</a></li>
+					<li><a href="#">Branding &amp; Identity</a></li>
+					<li><a href="#">Free HTML5</a></li>
+					<li><a href="#">HandCrafted Templates</a></li>
+				</ul>
+				<ul class="float">
+					<li><a href="#">Free Bootstrap Template</a></li>
+					<li><a href="#">Free HTML5 Template</a></li>
+					<li><a href="#">Free HTML5 &amp; CSS3 Template</a></li>
+					<li><a href="#">HandCrafted Templates</a></li>
+				</ul>
+			</div>
+			-->
+			<div class="col-md-3 col-md-push-4 col-sm-12 col-sm-push-0 col-xs-12 col-xs-push-0">
+				<h3>Navigation</h3>
+				<ul class="fh5co-social">
+					<li><a href="./"><i class="icon-twitter"></i> Home Page</a></li>
+					<li><a href="blog"><i class="icon-instagram"></i> Blog</a></li>
+					<li><a href="about"><i class="icon-facebook"></i> About Us</a></li>
+					<li><a href="contact"><i class="icon-google-plus"></i> Contact Us</a></li>
+					<!-- <li><a href="#"><i class="icon-twitter"></i> Twitter</a></li> -->
+					<!-- <li><a href="#"><i class="icon-facebook"></i> Facebook</a></li> -->
+					<!-- <li><a href="#"><i class="icon-google-plus"></i> Google Plus</a></li> -->
+					<!-- <li><a href="#"><i class="icon-instagram"></i> Instagram</a></li> -->
+				</ul>
+			</div>
+			
+			
+			<div class="col-md-12 fh5co-copyright text-center">
+				<p>&copy; 2015-2018 All Rights Reserved. <span>Designed by <a href="./" target="_blank">GoalsForEver.com</a> </a></span></p>	
+			</div>
+			
+		</div>
+	</footer>
+	</div>
+	
+	
+	<!-- jQuery -->
+	<script src="js/jquery.min.js"></script>
+	<!-- jQuery Easing -->
+	<script src="js/jquery.easing.1.3.js"></script>
+	<!-- Bootstrap -->
+	<script src="js/bootstrap.min.js"></script>
+	<!-- Waypoints -->
+	<script src="js/jquery.waypoints.min.js"></script>
+	<!-- MAIN JS -->
+	<script src="js/main.js"></script>
+
+	</body>
+</html>
