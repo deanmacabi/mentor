@@ -54,6 +54,10 @@ body {
    color: #000; 
 }
 
+.white{
+  color: #000;
+}
+
 .response {
    color: #fff;
    text-align: center;
