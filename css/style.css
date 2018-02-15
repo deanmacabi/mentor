@@ -43,16 +43,6 @@ body {
     color: #000;
 }
 
-.pcenter{
-    text-align: center;
-    position: relative;
-}
-
-.left {
-  position: absolute;
-  left: 0;
-}
-
 .titlefont {
     font-family: 'mediumb';
 }
