@@ -22,10 +22,6 @@ body {
   position: relative;
 }
 
-p {
-  color: #000;
-}
-
 @font-face {
   font-family: 'mediumb';
   src: url("../fonts/medium/KievitOT-Bold.otf");
@@ -42,6 +38,9 @@ p {
 
 .postfont {
     font-family: 'medium';
+    font-size: 21px;
+    font-weight: 400;
+    color: #000;
 }
 
 .titlefont {
@@ -112,6 +111,7 @@ p {
   margin-bottom: 30px;
   font-size: 21px;
   font-weight: 400;
+  color: #000;
 }
 
 h1, h2, h3, h4, h5, h6, figure {
