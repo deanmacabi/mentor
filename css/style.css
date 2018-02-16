@@ -96,6 +96,10 @@ body {
   color: #7f7f7f;
 }
 
+.whitep::placeholder, .whitep{
+  color: white!important;
+}
+
 .response {
    color: #fff;
    text-align: center;
@@ -105,9 +109,6 @@ body {
   line-height: 2;
 }
 
-.white::placeholder, .whitep{
-  color: white!important;
-}
 
 a {
   color: #0176FF;
