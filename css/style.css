@@ -84,7 +84,7 @@ body {
 }
 
 .white{
-  color: #FFF;
+  color: #7f7f7f;
 }
 
 .response {
@@ -96,7 +96,7 @@ body {
   line-height: 2;
 }
 
-.white::placeholder, .white{
+.white::placeholder, .whitep{
   color: white!important;
 }
 
