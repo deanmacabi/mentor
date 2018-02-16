@@ -40,6 +40,10 @@ body {
   margin-bottom: 20px;
 }
 
+.buttonmarg50 {
+  margin-bottom: 50px;
+}
+
 .postfont {
     font-family: 'medium';
     font-size: 21px;
