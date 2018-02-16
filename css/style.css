@@ -36,6 +36,10 @@ body {
   font-style: normal;
 }
 
+.buttonmarg {
+  margin-bottom: 20px;
+}
+
 .postfont {
     font-family: 'medium';
     font-size: 21px;
@@ -80,7 +84,7 @@ body {
 }
 
 .white{
-  color: #000;
+  color: #FFF;
 }
 
 .response {
