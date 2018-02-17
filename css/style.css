@@ -5,7 +5,6 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
 *
 * 	Template Style 
 *	Edit this section
@@ -75,6 +74,7 @@ body {
 
 .response2 { /* subscription form on blog posts */
   text-align: center;
+  font-weight: bold;
   
 }
 
@@ -103,6 +103,7 @@ body {
 .response {
    color: #fff;
    text-align: center;
+   font-weight: bold;
 }
 
 .about-inner {
@@ -542,25 +543,23 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-featured-section,
 #fh5co-intro-section,
 #fh5co-services-section,
-#fh5co-blog-section,
 #fh5co-client-section,
 #fh5co-work-section,
 #fh5co-main-services-section,
 #fh5co-about-section,
 #fh5co-contact-section {
-  padding-bottom: 6em;
+  padding-bottom: 6em; /* removed #fh5co-blog-section */
 }
 @media screen and (max-width: 999px) {
   #fh5co-featured-section,
   #fh5co-intro-section,
   #fh5co-services-section,
-  #fh5co-blog-section,
   #fh5co-client-section,
   #fh5co-work-section,
   #fh5co-main-services-section,
   #fh5co-about-section,
   #fh5co-contact-section {
-    padding: 3em 0;
+    padding: 3em 0; /* removed #fh5co-blog-section */
   }
 }
 
