@@ -413,7 +413,7 @@ h1, h2, h3, h4, h5, h6, figure {
   content: '';
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-header {
     margin: 0px 0 0 0;
   }
@@ -448,7 +448,7 @@ h1, h2, h3, h4, h5, h6, figure {
   float: right;
   padding: 0;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-header nav {
     display: none;
   }
@@ -553,7 +553,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-contact-section {
   padding-bottom: 6em; /* removed #fh5co-blog-section */
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-featured-section,
   #fh5co-intro-section,
   #fh5co-services-section,
@@ -763,7 +763,7 @@ h1, h2, h3, h4, h5, h6, figure {
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1fb57b', endColorstr='#258dc8',GradientType=1 );
   /* IE6-8 fallback on horizontal gradient */
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-services-section .services-inner {
     margin-bottom: 60px;
   }
@@ -799,7 +799,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   margin-bottom: 40px;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-main-services-section .services-inner {
     margin-bottom: 60px;
   }
@@ -879,7 +879,7 @@ h1, h2, h3, h4, h5, h6, figure {
   -ms-border-radius: 4px;
   border-radius: 4px;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   .testimony {
     margin-bottom: 60px;
   }
@@ -947,7 +947,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 2em;
   border-left: 1px solid rgba(0, 0, 0, 0.1);
 }
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 992px) {
   .sidebar {
     padding-left: 0 !important;
     border-left: none !important;
@@ -1029,7 +1029,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: relative;
   background: #262626;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   #fh5co-footer {
     padding: 3em 0;
   }
@@ -1138,7 +1138,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: black;
   padding: 30px;
 }
-@media screen and (max-width: 786px) {
+@media screen and (max-width: 768px) {
   #fh5co-offcanvas {
     display: block;
   }
@@ -1290,7 +1290,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: none;
   cursor: pointer;
 }
-@media screen and (max-width: 999px) {
+@media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
     display: block;
     top: 40px;
