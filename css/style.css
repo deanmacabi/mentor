@@ -530,8 +530,11 @@ h1, h2, h3, h4, h5, h6, figure {
   transform: scaleX(1);
 }
 
+.fh5co-heading {
+    margin-bottom: 3em;
+}
+
 .fh5co-heading h2 {
-/*  margin-bottom: 20px; */
   font-weight: bold; /*400*/
   font-size: 34px;
 }
