@@ -56,7 +56,7 @@
 		})
 	};
 
-
+/*
 	var mobileMenuOutsideClick = function() {
 
 		$(document).click(function (e) {
@@ -131,7 +131,7 @@
 		}
 	};
 
-
+*/
 
 	var contentWayPoint = function() {
 		var i = 0;
