@@ -1078,8 +1078,6 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.1);
   clear: both;
-  margin-top: 40px !important;
-  padding: 40px 0 0 0;
 }
 .fh5co-copyright span {
   display: block;
