@@ -551,7 +551,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-main-services-section,
 #fh5co-about-section,
 #fh5co-contact-section {
-  padding-bottom: 6em; /* removed #fh5co-blog-section */
+  padding-bottom: 2em; /* removed #fh5co-blog-section */
 }
 @media screen and (max-width: 768px) {
   #fh5co-featured-section,
