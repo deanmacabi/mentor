@@ -47,6 +47,10 @@ body {
   margin: 1em 0;
 }
 
+.paddingtop {
+  padding-top: 1.5em;
+}
+
 .postfont {
     font-family: 'medium';
     font-size: 21px;
