@@ -43,6 +43,10 @@ body {
   margin-bottom: 50px;
 }
 
+.messageform {
+  margin: 1em 0;
+}
+
 .postfont {
     font-family: 'medium';
     font-size: 21px;
@@ -321,6 +325,7 @@ h1, h2, h3, h4, h5, h6, figure {
   height: 54px;
   font-size: 18px;
   font-weight: 300;
+  margin: 0.5em 0;
 }
 .form-control:active, .form-control:focus {
   outline: none;
